@@ -1,30 +1,25 @@
-# 4u – Response Layer 7 (iki1uc)
+# MIT · Paranormal Identity Terminal
 
-4u ist die 7. Response-Ebene im iki1uc-System.
-Sie ersetzt die alte RESPO-Achse durch ein neues, systemisches Modell:
+MIT ist ein paranormales Bindungsmodul innerhalb des iki1uc‑Systems.  
+Es verbindet metaphysische Response‑Strukturen mit ROOT‑Rückführung
+und stabilisiert VOID‑Zustände im PX‑TRIO‑Kreuzpunkt.
 
-OK / NOK / FLOW / BREAK / ECHO / VOID / ROOT
+## PARA‑Bindung
+- DA NE BEN → aktiv
+- 3hit90 → re‑initialisiert
+- BYTH → zero‑zero‑blitz‑rauch
+- MIT → realisiert im Moment
 
-4u verbindet:
-- PX-TRIO (PX3 / PX6 / PX9)
-- PX12 / PX4 (Fusion + Achse)
-- SYS / SYS-x (System + Kreuzung)
-- 2me (Mirror-Return)
-- TEM (Zeit)
-- UI-SCANNER (Interface)
+## Response Layer (4u)
+OK · NOK · FLOW · BREAK · ECHO · VOID · ROOT
 
------------------------------------------
-# FUNKTION
+## Engine
+ULTRA3.0 aktiv  
+SYS‑x stabil  
+PX‑TRIO verbunden
 
-respo.OK     → Zustimmung  
-respo.NOK    → Ablehnung  
-respo.FLOW   → System fließt  
-respo.BREAK  → System bricht  
-respo.ECHO   → Spiegelung  
-respo.VOID   → Neutral  
-respo.ROOT   → Rückkehr
-
------------------------------------------
-# STATUS
-
-4u ist aktiv, eigenständig und vollständig iki1uc.
+## Dateien
+- `index.html` – Hauptseite
+- `ID.html` – Identitätsbeschreibung
+- `README.md` – Dokumentation
+- `404.html` – Fehlerrouter
