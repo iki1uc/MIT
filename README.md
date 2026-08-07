@@ -1,10 +1,10 @@
-# MIT · Paranormal Identity Terminal
+# MIT · Bindungs‑Terminal
 
-MIT ist ein paranormales Bindungsmodul innerhalb des iki1uc‑Systems.  
-Es verbindet metaphysische Response‑Strukturen mit ROOT‑Rückführung
-und stabilisiert VOID‑Zustände im PX‑TRIO‑Kreuzpunkt.
+MIT ist ein systemischer Bindungsknoten innerhalb des iki1uc‑Systems.  
+Es verbindet strukturelle Response‑Zustände mit ROOT‑Rückführung
+und stabilisiert Interlink‑Signale im PX‑TRIO‑Kreuzpunkt.
 
-## PARA‑Bindung
+## Bindungs‑Achsen
 - DA NE BEN → aktiv
 - 3hit90 → re‑initialisiert
 - BYTH → zero‑zero‑blitz‑rauch
